@@ -9,6 +9,9 @@ The dataset includes:
 - **ROAS calculations**
 - **Per-day spend and revenue insights**
 - **Visual representation of Weekly Spends vs. Sales and ROAS trends**
+## Visualization
+- <a href="https://github.com/shreya-insights/Media-Plan-Analysis/blob/main/Media%20Plan%20analysis.xlsx">Swadeshi Store (Raw Dataset)</a>
+
 
 ## 🔍 Key Insights:
 - **ROAS remains constant at 2** across all weeks.
@@ -16,6 +19,9 @@ The dataset includes:
 - Some inefficiency is noticed in **Week 8th to 14th**, where the proportional relationship between spend and sales is weaker.
 - **Week 22nd to 28th had the most effective budget utilization**.
 - 📌 **Recommendation:** Increase **budget allocation for Week 22nd to 28th** to maximize returns.
+
+## Visualization Overview
+![image](https://github.com/user-attachments/assets/85101f97-0f2e-4cff-b115-1a9b01a58fc4)
 
 
 💡 **Future Improvements:**  
