@@ -10,7 +10,7 @@ The dataset includes:
 - **Per-day spend and revenue insights**
 - **Visual representation of Weekly Spends vs. Sales and ROAS trends**
 ## Visualization
-- <a href="https://github.com/shreya-insights/Media-Plan-Analysis/blob/main/Media%20Plan%20analysis.xlsx">Swadeshi Store (Raw Dataset)</a>
+- <a href="https://github.com/shreya-insights/Media-Plan-Analysis/blob/main/Media%20Plan%20analysis.xlsx">Report</a>
 
 
 ## 🔍 Key Insights:
